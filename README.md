@@ -128,3 +128,16 @@ Videodaki hesap makinesini switch-case kullanarak yapınız.
 Java koşullu ifadeler ile kullanıcı adı ve şifreyi kontrol eden program yapımı.
 
 Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
+
+
+# Ödev 10
+
+## Sınıfı Geçme Durumu
+
+Java koşullu ifadeler ile kullanıcının not durumuna göre sınıfı geçme durumunu hesaplayan program yapımı.
+
+Dersler : Matematik, Fizik, Türkçe, Kimya, Müzik
+
+Geçme Notu : 55
+
+Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmasın.
