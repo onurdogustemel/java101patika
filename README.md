@@ -141,3 +141,21 @@ Dersler : Matematik, Fizik, Türkçe, Kimya, Müzik
 Geçme Notu : 55
 
 Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmasın.
+
+# Ödev 11
+
+## Hava Sıcaklığına Göre Etkinlik Önerme
+
+Java koşullu ifadeler ile hava sıcaklığına göre etkinlik öneren program yapımı.
+
+Koşullar :
+
+Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.
+
+Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner.
+
+Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
+
+Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
+
+Aynı örnek üzerinden if koşulları başka hangi şekilde oluşturulabilirdi farklı çözüm yolları bulunuz.
