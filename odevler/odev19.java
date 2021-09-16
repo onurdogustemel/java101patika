@@ -12,7 +12,7 @@ public class odev19 {
 		System.out.println("Enter a number: ");
 		n = input.nextInt();
 		
-		for(int i = 1,j=1; i <= n; i*=4) {
+		for(int i = 1; i <= n; i*=4) {
 			System.out.println("Power of 4: " + i);
 		}
 		
