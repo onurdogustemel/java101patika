@@ -116,8 +116,11 @@ public class odev_33 {
         System.out.println("Modu giriniz :");
         int n= scan.nextInt();
         int result = m % n;
+        if(m<n) {
+        	System.out.println("Sonuç: " + m);
+        }else
+        	System.out.println("Sonuç: " + result);
         
-        System.out.println("Sonuç: " + result);
     	
     }
     static void rect() {
@@ -132,7 +135,7 @@ public class odev_33 {
     	if (e<=0 && b<=0) 
     		System.out.println("Dikdörtgenin kenarları 0 ve 0'dan küçük bir değer alamaz.");
     	else if (e==b)
-    		System.out.println("Kenarlar birbirine eşit olamaz.");
+    		System.out.println("Bu bir karedir.");
     	else {
     		System.out.println("Çevre: " + perimeter);
         	System.out.println("Alan: " + area);
