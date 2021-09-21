@@ -6,7 +6,7 @@ public class odev_29 {
 		// TODO Auto-generated method stub
 		
 		Scanner input = new Scanner(System.in);
-		sdfdsfdsfg
+		
 		int number;
 		
 		System.out.println("Enter a number: ");
